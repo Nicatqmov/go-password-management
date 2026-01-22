@@ -22,3 +22,4 @@ You can control password length, choose whether to include symbols, and specify 
 ```bash
 git clone https://github.com/yourusername/password-cli.git
 cd password-cli
+```
